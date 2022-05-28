@@ -1,0 +1,9 @@
+com\system\modelspring\Endereco.class
+com\system\servicespring\ClienteService.class
+com\system\modelspring\EnderecoRepository.class
+com\system\modelspring\Cliente.class
+com\system\controllerspring\ClienteRestController.class
+com\system\cadastrospring\CadastroSpringApplication.class
+com\system\servicesspring\impl\ClienteServiceImpl.class
+com\system\servicespring\ViaCepService.class
+com\system\modelspring\ClienteRepository.class
